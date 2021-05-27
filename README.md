@@ -13,6 +13,6 @@ https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor
 
 
 
-![ Anurag'ın GitHub istatistikleri](https://github-readme-stats.vercel.app/api ?username=hllbr&theme=dark&show_icons=true )
+![ Anurag'ın GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=hllbr&theme=dark&show_icons=true )
 
 
