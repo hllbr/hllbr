@@ -14,3 +14,4 @@
 ![ Anurag'ın GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=hllbr&theme=tokyonight&show_icons=true )
 
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hllbr)](https://github.com/anuraghazra/github-readme-stats)
