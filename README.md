@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<hr></hr>
 **Languages and Tools:**  
 
 <br></br>
