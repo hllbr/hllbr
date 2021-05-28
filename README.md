@@ -1,9 +1,8 @@
-### Hi there 👋
-<h1 align="center">**Languages and Tools:** </h1>
+<h1 align="center">Hi there 👋</h1>
 
 <hr></hr>
 
-<h3 align="left">**Languages and Tools:** </h3>
+<h3 align="left">**Languages and Tools:**</h3>
  
 
 <br></br>
