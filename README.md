@@ -31,9 +31,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-<code><img height="20" src=""></code>
-<code><img height="20" src=""></code>
-<code><img height="20" src=""></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"></code>
 <code><img height="20" src=""></code>
 <code><img height="20" src=""></code>
 <code><img height="20" src=""></code>
