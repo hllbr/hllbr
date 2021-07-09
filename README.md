@@ -40,12 +40,7 @@
 
 
  <hr></hr>
-
-
-![ HALİL İBRAHİM KOCAK's GitHub stats](https://github-readme-stats.vercel.app/api?username=hllbr&theme=tokyonight&show_icons=true )
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hllbr&layout=compact&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hllbr&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Anurag's github stats" />
 </a>
