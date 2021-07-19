@@ -6,7 +6,6 @@
   <br />
 
  </div>
-  <h1</h1>
  <hr></hr>
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
