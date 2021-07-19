@@ -7,6 +7,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/hllbr/count.svg" />
 </p>
+ <hr></hr>
 
 <h3 align="center">**Languages,Technologies and Tools:**</h3>
  <hr></hr>
