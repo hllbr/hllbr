@@ -1,4 +1,7 @@
-<h1 align="center">Hi there 👋</h1>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/hllbr/count.svg" />
+</p>
  <hr></hr>
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
@@ -6,10 +9,7 @@
  <hr></hr>
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/hllbr/count.svg" />
-</p>
+
  <hr></hr>
 
 <h3 align="center">**Languages,Technologies and Tools:**</h3>
