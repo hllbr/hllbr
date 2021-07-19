@@ -53,7 +53,7 @@
 </a>
 <a href="https://github.com/hllbr/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.hllbr.vercel.app/api/top-langs/?username=hllbr&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hllbr&layout=compact&theme=tokyonight" />
 </a>
  <hr></hr>
 
