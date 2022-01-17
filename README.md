@@ -48,8 +48,7 @@
 
  <hr></hr>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@HLLBR/1553e2c0-fa4d-48a6-a3ad-469c2446c914.png" /></a> <hr></hr>
- .. image:: https://wakatime.com/share/@HLLBR/2964b1e8-f651-4417-9b80-7920575af0db.png
-    :target: https://wakatime.com/
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@HLLBR/2964b1e8-f651-4417-9b80-7920575af0db.png" /></a>
 <a href="https://github.com/hllbr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hllbr&theme=tokyonight&show_icons=true" alt="hllbr's github stats" />
 </a>
