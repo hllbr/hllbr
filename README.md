@@ -59,6 +59,5 @@
 -->
  <hr></hr>
 
-<p align="center"> 
-  Visitor count
+<p align="center">
   <img src="https://profile-counter.glitch.me/hllbr/count.svg" /></p>
