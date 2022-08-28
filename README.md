@@ -62,4 +62,5 @@
 <p align="center">visitor<br>
   <img src="https://profile-counter.glitch.me/hllbr/count.svg" />
  <br/>
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
+   <img src="[https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)" style="max-width: 100%;" />
+
