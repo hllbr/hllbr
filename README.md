@@ -61,7 +61,6 @@
 
 <p align="center">visitor<br>
   <img src="https://profile-counter.glitch.me/hllbr/count.svg" />
- <br/>
-/*![snake svg](https://github.com/hllbr/hllbr/blob/output/github-contribution-grid-snake.svg)*/
+
 
 
