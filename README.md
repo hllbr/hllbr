@@ -26,8 +26,7 @@ Some fun stats about my journey in the software world:
 
 ## 🌐 Social Media
 
-- LinkedIn: [My LinkedIn Profile](Your-LinkedIn-URL)
-- Twitter: [@YourTwitterUsername](Your-Twitter-URL)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/hllbr/)
 
 ## 🎉 Visitor Counter
 
@@ -42,21 +41,6 @@ Would you like to join me on my adventures in the software world over a cup of c
 ![coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 
- <hr></hr>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@HLLBR/1553e2c0-fa4d-48a6-a3ad-469c2446c914.png" /></a> <hr></hr>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@HLLBR/2964b1e8-f651-4417-9b80-7920575af0db.png" /></a>
-<!--<a href="https://github.com/hllbr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hllbr&theme=tokyonight&show_icons=true" alt="hllbr's github stats" />
-</a>
-<a href="https://github.com/hllbr/github-readme-stats">
-   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hllbr&layout=compact&theme=tokyonight" />
-</a>
--->
- <hr></hr>
-
-<p align="center">visitor<br>
-  <img src="https://profile-counter.glitch.me/hllbr/count.svg" />
 
 
 
