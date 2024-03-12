@@ -1,46 +1,39 @@
-# Hello, I'm Halil İbrahim! 👋🚀
+# Hello, I'm Halil İbrahim! 👋🌌
 
-I am a software engineer, technology enthusiast, and lifelong learner. Exploring new things in the software world and coming up with creative solutions is my passion.
+🚀 **About Me:**
+I'm a passionate software engineer, constantly exploring the vast universe of technology. With a curious mind and a thirst for innovation, I love diving into coding adventures and crafting creative solutions.
 
 ![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-## ⏳ My Wakatime Stats
+🕰 **Wakatime Journey:**
+Take a sneak peek at how I weave my time into code:
 
-A glimpse into how I spend my time as a developer:
-
-<a href="https://wakatime.com">
-  <img src="https://wakatime.com/share/@HLLBR/1553e2c0-fa4d-48a6-a3ad-469c2446c914.png">
+<a href="https://wakatime.com/@HLLBR">
+  <img src="https://wakatime.com/share/@HLLBR/1553e2c0-fa4d-48a6-a3ad-469c2446c914.png" alt="Halil İbrahim's Wakatime Stats">
 </a>
 
-## 💻 Most Used Languages
+💾 **Languages I Speak:**
+Ever wondered in which languages I dream? Here's the answer:
 
-Curious about which languages I use most in my coding adventures?
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hllbr&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hllbr&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+📊 **My GitHub Chronicles:**
+Embark on a journey through my GitHub universe, witnessing the stars I've collected and the realms I've conquered:
 
-## 📈 My GitHub Stats
+[![hllbr's GitHub stats](https://github-readme-stats.vercel.app/api?username=hllbr&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-Some fun stats about my journey in the software world:
+🌐 **Let's Connect:**
+- Pour some wisdom into my cup on [LinkedIn](https://www.linkedin.com/in/hllbr/)
 
-[![hllbr's GitHub stats](https://github-readme-stats.vercel.app/api?username=hllbr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+👽 **Visitor Abduction Counter:**
+Are you just visiting, or are we about to embark on an interstellar adventure together?
 
-## 🌐 Social Media
-
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/hllbr/)
-
-## 🎉 Visitor Counter
-
-Number of visitors to my profile:
-
-<p align="left"> <img src="https://profile-counter.glitch.me/hllbr/count.svg" alt="Visitor Counter"> </p>
+<p align="left"> <img src="https://profile-counter.glitch.me/hllbr/count.svg" alt="Alien Abductions (a.k.a. Visitor Counter)"> </p>
 
 ---
 
-Would you like to join me on my adventures in the software world over a cup of coffee? ☕
+☕ **Coffee & Code:**
+Fancy a cosmic ride through the realms of code fueled by the elixir of life (a.k.a. coffee)?
 
 ![coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
-
-
-
 
