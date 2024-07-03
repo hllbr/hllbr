@@ -22,6 +22,11 @@ Embark on a journey through my GitHub universe, witnessing the stars I've collec
 
 [![hllbr's GitHub stats](https://github-readme-stats.vercel.app/api?username=hllbr&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
+🐍 **Contribution Snake:**
+Watch a snake eat up my contributions:
+
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
 🌐 **Let's Connect:**
 - Pour some wisdom into my cup on [LinkedIn](https://www.linkedin.com/in/hllbr/)
 - **Portfolio**: [Visit My Portfolio](https://halilibrahimkocak.com/)
@@ -37,4 +42,3 @@ Are you just visiting, or are we about to embark on an interstellar adventure to
 Fancy a cosmic ride through the realms of code fueled by the elixir of life (a.k.a. coffee)?
 
 ![coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
