@@ -9,7 +9,7 @@ I'm a passionate software engineer, constantly exploring the vast universe of te
 Take a sneak peek at how I weave my time into code:
 
 <a href="https://wakatime.com/@HLLBR">
-  <img src="https://wakatime.com/share/@HLLBR/af1187d6-ca2f-4191-b122-aa57ac3f9a0d.png" alt="Halil İbrahim's Wakatime Stats">
+  <img src="https://wakatime.com/share/@HLLBR/514bd7c0-f97d-46c6-9fda-aa36a18a9f3e.png" alt="Halil İbrahim's Wakatime Stats">
 </a>
 
 💾 **Languages I Speak:**
