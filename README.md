@@ -55,7 +55,7 @@
 ---
 
 ### 🌐 Let's Connect
-- 🌍 [Portfolio](https://halilibrahimkocak.com)
+- 🌍 [Portfolio](https://hikocak.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/hllbr/)
 - 📬 halibrahim.kocak@gmail.com
 
